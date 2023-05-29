@@ -1,4 +1,4 @@
-# frontend-mentor
+# Frontend-Mentor
 Desafios de FrontEnd
 
-01 - QR code component
+01 - QR Code Component
